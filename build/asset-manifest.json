@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TXON-TASK4/static/css/main.e6757a19.chunk.css",
+    "main.js": "/TXON-TASK4/static/js/main.17ea7a01.chunk.js",
+    "main.js.map": "/TXON-TASK4/static/js/main.17ea7a01.chunk.js.map",
+    "runtime-main.js": "/TXON-TASK4/static/js/runtime-main.a09a495b.js",
+    "runtime-main.js.map": "/TXON-TASK4/static/js/runtime-main.a09a495b.js.map",
+    "static/js/2.2ee303ed.chunk.js": "/TXON-TASK4/static/js/2.2ee303ed.chunk.js",
+    "static/js/2.2ee303ed.chunk.js.map": "/TXON-TASK4/static/js/2.2ee303ed.chunk.js.map",
+    "index.html": "/TXON-TASK4/index.html",
+    "static/css/main.e6757a19.chunk.css.map": "/TXON-TASK4/static/css/main.e6757a19.chunk.css.map",
+    "static/js/2.2ee303ed.chunk.js.LICENSE.txt": "/TXON-TASK4/static/js/2.2ee303ed.chunk.js.LICENSE.txt",
+    "static/media/profilePic.41eaa20d.jpeg": "/TXON-TASK4/static/media/profilePic.41eaa20d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a09a495b.js",
+    "static/js/2.2ee303ed.chunk.js",
+    "static/css/main.e6757a19.chunk.css",
+    "static/js/main.17ea7a01.chunk.js"
+  ]
+}
